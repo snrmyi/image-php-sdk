@@ -1,0 +1,13 @@
+{
+    "name": "awdesq/image-php-sdk",
+    "keywords": ["awdesq", "qcloud", "sdk", "image"],
+    "homepage": "http://www.5m3x.com/",
+    "license": "MIT",
+    "description": "php sdk for www.qcloud.com image service",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {"QcloudImage\\": "QcloudImage"}
+    }
+}
